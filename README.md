@@ -1,6 +1,6 @@
 # bengalore-house-price-prediction
 
-Data:
+# Data:
 The train and test data will consist of various features that describe that property in Bengaluru.
 Each row contains fixed size object of features. There are 9 features and each feature can be accessed by its name.
 Features:
